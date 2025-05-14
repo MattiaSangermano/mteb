@@ -129,6 +129,7 @@ from .multilingual.IndicQARetrieval import *
 from .multilingual.MintakaRetrieval import *
 from .multilingual.MIRACLRetrieval import *
 from .multilingual.MLQARetrieval import *
+from .multilingual.MKQARetrieval import *
 from .multilingual.MrTidyRetrieval import *
 from .multilingual.MultiLongDocRetrieval import *
 from .multilingual.NeuCLIR2022Retrieval import *
